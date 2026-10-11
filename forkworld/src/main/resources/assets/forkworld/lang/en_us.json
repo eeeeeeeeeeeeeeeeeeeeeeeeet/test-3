@@ -1,0 +1,8 @@
+{
+  "key.categories.forkworld": "Fork World",
+  "key.forkworld.fork": "Fork the world",
+  "key.forkworld.merge": "Merge into real world",
+  "key.forkworld.rewind": "Rewind fork",
+  "key.forkworld.discard": "Discard fork / cancel merge",
+  "key.forkworld.debug_record": "Debug: record in real world"
+}
